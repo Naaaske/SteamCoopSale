@@ -1,1 +1,1 @@
-# SteamCoopSale
+# SteamCoopSale.py
